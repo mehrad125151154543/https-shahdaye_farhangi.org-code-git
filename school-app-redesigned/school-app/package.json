@@ -1,0 +1,9 @@
+{
+  "name": "school-schedule",
+  "version": "1.0.0",
+  "private": true,
+  "description": "School weekly schedule, exams and homework (Node.js + SQLite, no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" }
+}
